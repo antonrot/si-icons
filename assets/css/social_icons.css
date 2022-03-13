@@ -1,0 +1,13 @@
+
+.social_links_container hr {
+    margin-top: 15px !important;
+}
+a {
+    text-decoration: none !important;
+    opacity: 0.7;
+    transition: 0.3s;
+}
+
+a:hover {
+    opacity:1;
+}
